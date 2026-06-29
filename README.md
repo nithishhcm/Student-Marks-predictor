@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 # 🎓 Student Marks Predictor (PostgreSQL + Scikit-Learn)
 
 A clean, end-to-end Machine Learning regression pipeline built in Python that extracts relational data from a **PostgreSQL** database to predict student marks based on course load and study time allocation. 
